@@ -76,13 +76,16 @@ ul{
         display: flex;width: 1820px;height: 500px; ; border: 0 solid;justify-content: space-between;margin-top: 100px;
     }
 .pic4{
-    background-color: rgba(167, 33, 98, 0.15);width: 460px;height: 500px;
+   width: 400px;height: 500px;
 }
 .pic5{
-    background-color: rgba(5, 151, 160, 0.15);width: 460px;height: 500px;
+   width: 400px;height: 500px;
 }
 .pic6{
-    background-color: rgba(71, 125, 17, 0.15);width: 460px;height: 500px;
+   width: 400px;height: 500px;
+}
+.pic7{
+    width: 400px;height: 500px;
 }
 .section3{
         width: 1820px;height: 450px; border:0 solid;
