@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+}
+
+.head{
+ width: 1820px;height: 550px;
+ background: rgba(229, 84, 115, 0.10);
+ display: flex;border: 0 solid;
+}
+.left{
+  margin: 100px;border: 0 solid; 
+}
+.para1{
+    margin-bottom: 10px;font-size: 20px;
+    border:0 solid;font-family: 'Times New Roman';
+}
+h1{
+font-size: 50px;
+}
+.btn{
+    border: none;color: white;padding: 16px;
+    background-color: coral;border-radius: 5px;
+    margin-top: 15px;
+}
+.right{
+    margin-left: 400px;
+}
+.pic{
+    height: 550px;
+}.main{
+    width: 1820px;height: 4867px; border:0 solid;
+    background-color:white; margin-top: 20px;
+}
+.para3{
+    font-size: 20px;margin-top: 150px;
+    text-align: center;
+}
+.para3 ,h2{
+    margin-bottom: 20px;
+}
+.picture{
+    display: flex;width: 1820px;height: 500px; ; border: 0 solid;justify-content: space-between;
+}
+.pic1{
+    background-color: rgba(167, 33, 98, 0.15);border-radius: 300px 300px 0px 0px;width: 460px;height: 500px;
+}
+.pic2{
+    background-color: rgba(5, 151, 160, 0.15);border-radius: 300px 300px 0px 0px;width: 460px;height: 500px;
+}
+.pic3{
+    background-color: rgba(71, 125, 17, 0.15);border-radius: 300px 300px 0px 0px;width: 460px;height: 500px;
+}
+ul{
+    display: flex;justify-content: space-around;list-style: none;
+    text-decoration: underline;padding: 20px;
+
+}
+.section{
+    width: 1820px;height: 450px; border:0 solid;
+    background-color:rgba(229, 84, 115, 0.05); margin-top: 20px;
+    display: flex;
+}
+.left1{
+    text-align: center;margin-top: 160px;margin-left: 200px;
+}
+.right1{
+    margin-left: 700px;
+}
+.span{
+    color: chocolate;
+}
+.para4{
+    font-size: 20px;margin-top: 150px;
+    text-align: center;}
+    .picture2{
+        display: flex;width: 1820px;height: 500px; ; border: 0 solid;justify-content: space-between;margin-top: 100px;
+    }
+.pic4{
+    background-color: rgba(167, 33, 98, 0.15);width: 460px;height: 500px;
+}
+.pic5{
+    background-color: rgba(5, 151, 160, 0.15);width: 460px;height: 500px;
+}
+.pic6{
+    background-color: rgba(71, 125, 17, 0.15);width: 460px;height: 500px;
+}
+.section3{
+        width: 1820px;height: 450px; border:0 solid;
+        background-color:rgba(229, 84, 115, 0.05);background-image: url('flower\ Asset/Rectangle 9.png');
+         margin-top: 50px;background-repeat: no-repeat;background-size: cover;
+        display: flex;
+    }
+    .left2{
+        text-align: center;margin-top: 160px;margin-left: 600px;
+    }
+
+    .input{
+        padding-right: 100px;padding-top: 10px;padding-bottom: 10px;margin-right: 10px;
+    }
+                      
