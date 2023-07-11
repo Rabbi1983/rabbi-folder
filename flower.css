@@ -28,7 +28,7 @@ font-size: 50px;
 .pic{
     height: 550px;
 }.main{
-    width: 1820px;height: 4867px; border:0 solid;
+    width: 1820px;height: 2567px; border:0 solid;
     background-color:white; margin-top: 20px;
 }
 .para3{
@@ -97,4 +97,12 @@ ul{
     .input{
         padding-right: 100px;padding-top: 10px;padding-bottom: 10px;margin-right: 10px;
     }
-                      
+    .footer{
+        width: 1820px;height: 450px; border:0 solid;
+        background-color:black; margin-top: 20px; color: white;
+        display: flex;mar
+    }  
+    .left3{
+        text-align: center;margin-top: 160px;margin-left: 500px;
+    }
+    }              
